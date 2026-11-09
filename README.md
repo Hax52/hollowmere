@@ -16,6 +16,12 @@ Your key is saved only in your own browser and sent only to Google's Gemini API.
 
 Without a key the game plays fully with its scripted choices.
 
+## Make it yours
+
+- **Appearance** (title screen, or Sheet → Appearance): pick a scroll (Vellum, Bone, Candlelit, Lakewater, Peat, or follow your device), an ink colour, the lettering, and the text size, or turn off animations.
+- **Your place in the tale** (step 2 of character creation): choose where you come from, each with a small perk, or write your own past. Pick a keepsake: once between rests it lets you reroll a failed check.
+- **The world** (with the AI storyteller): set the tone, add up to three things that are true in Hollowmere, and name someone you know there. Change these mid-tale from Sheet → Shape the world.
+
 ## Tips
 
 - On a phone, use your browser's **Add to Home Screen** to open it like an app.
